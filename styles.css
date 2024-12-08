@@ -43,11 +43,11 @@ background: linear-gradient(30deg, #182C51, #09101e);
     }
     50%{
         box-shadow:0 0 10px #f9f3f2, 0 0 80px 8px #C7938B ;
-transform: translate(0,0) scale(1.02);  
-background-color: #efdbd8;      
+        transform: translate(0,0) scale(1.02);  
+        background-color: #efdbd8;      
     }
     100%{
-transform: translate(30px, -30px) scale(0.9);
-box-shadow: none;
+        transform: translate(30px, -30px) scale(0.9);
+        box-shadow: none;
     }
 }
